@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27124623-1570-4142-800d-15d0864e36b9" name="Default Changelist" comment="some tests">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-query.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/BigQueryDataGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/BigQueryDataGatewayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/BigQueryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/BigQueryManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/QueryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bq-test-keys.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BigQueryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\soft\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22NHkKaOp6MlvUOEM4N3lkwvawD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/gubenko" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3586207" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gubenko.bigquery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BigQueryTests.metadataTest">
+    <configuration name="BigQueryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-query" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BigQueryTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigQueryTests.metadataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-query" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BigQueryTests" />
+      <option name="METHOD_NAME" value="metadataTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigQueryTests.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-query" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BigQueryTests" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BigQueryTests.metadataTest" />
+        <item itemvalue="JUnit.BigQueryTests" />
+        <item itemvalue="JUnit.BigQueryTests.testQuery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27124623-1570-4142-800d-15d0864e36b9" name="Default Changelist" comment="" />
+      <created>1639671269530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639671269530</updated>
+      <workItem from="1639671270593" duration="3551000" />
+      <workItem from="1639674915053" duration="426000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1639671977242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639671977242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="90" key="#Project_Structure" timestamp="1639671837904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="#Project_Structure/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639671837904" />
+    <state x="765" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1639673419362">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639673419362" />
+    <state x="740" y="257" key="FileChooserDialogImpl" timestamp="1639674950609">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="257" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639674950609" />
+    <state x="838" y="413" width="544" height="245" key="Github.ShareDialog" timestamp="1639674683428">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="838" y="413" width="544" height="245" key="Github.ShareDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639674683428" />
+    <state width="1877" height="535" key="GridCell.Tab.0.bottom" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state width="1877" height="535" key="GridCell.Tab.0.center" timestamp="1639675343257">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343257" />
+    <state width="1877" height="535" key="GridCell.Tab.0.left" timestamp="1639675343257">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343257" />
+    <state width="1877" height="535" key="GridCell.Tab.0.right" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state width="1877" height="535" key="GridCell.Tab.1.bottom" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.1.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state width="1877" height="535" key="GridCell.Tab.1.center" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.1.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state width="1877" height="535" key="GridCell.Tab.1.left" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.1.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state width="1877" height="535" key="GridCell.Tab.1.right" timestamp="1639675343258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="535" key="GridCell.Tab.1.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675343258" />
+    <state x="765" y="218" key="RollbackChangesDialog" timestamp="1639675114125">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="218" key="RollbackChangesDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675114125" />
+    <state x="345" y="74" key="SettingsEditor" timestamp="1639675297257">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="345" y="74" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675297257" />
+    <state x="807" y="429" key="VCS.ChangelistChooser" timestamp="1639675196100">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="807" y="429" key="VCS.ChangelistChooser/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639675196100" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1639674706021">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639674706021" />
+    <state x="776" y="293" key="chooseDestDirectoryDialog" timestamp="1639671595010">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="776" y="293" key="chooseDestDirectoryDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1639671595010" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gubenko/bigquery/ApplicationContext.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
